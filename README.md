@@ -1,4 +1,4 @@
-### Hi there, I'm [Vincent!]() 👋
+### Hi there, I'm [Vincent!](https://github.com/BabyKnight) 👋
 
 <!--
 **BabyKnight/BabyKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
