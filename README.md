@@ -1,5 +1,23 @@
 ### Hi there, I'm [Vincent!](https://babyknight.github.io/) 👋
 
+🏫: MSE， graduated from ZheJiang University.
+
+👨‍💻: Senior Software Engineer & Development Manager
+
+Interested in:
+
+💻: Web / Desktop Application
+
+🖥️: Linux Kernel
+
+To find more detail from my github pages 👉: [https://babyknight.github.io/](https://babyknight.github.io/)
+
+To contact me for any upstream projects 📧: vincent.guohua.hu@gmail.com / zju_hgh@163.com
+
+
+
+
+
 <!--
 **BabyKnight/BabyKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
