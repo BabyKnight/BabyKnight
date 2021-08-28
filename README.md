@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <table>
-    <tr>
+    <tr style="border:hidden">
         <td width=50%>
             <center><img src="https://github-readme-stats.vercel.app/api?username=babyknight&show_icons=true&hide_border=true&theme=radical" ></center>
         </td>
