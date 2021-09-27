@@ -2,7 +2,7 @@
 
 🏫: MSE， graduated from [ZheJiang University](https://www.zju.edu.cn/).
 
-👨‍💻: Senior Software Engineer & Development Manager
+👨‍💻: Senior Software Engineer & Scrum Master & Development Manager 
 
 Interested in:
 
