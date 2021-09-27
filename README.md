@@ -1,6 +1,6 @@
 ### Hi there, I'm [Vincent!](https://babyknight.github.io/) 👋
 
-🏫: MSE， graduated from ZheJiang University.
+🏫: MSE， graduated from [ZheJiang University](https://www.zju.edu.cn/).
 
 👨‍💻: Senior Software Engineer & Development Manager
 
