@@ -50,6 +50,5 @@ Here are some ideas to get you started:
         <td width=50%>
             <center><img src="https://github-readme-streak-stats.herokuapp.com/?user=BabyKnight&hide_border=true&theme=radical" ></center>
         </td>
-
     </tr>
 </table>
