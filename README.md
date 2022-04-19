@@ -43,4 +43,12 @@ Here are some ideas to get you started:
             <center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyknight&layout=compact&theme=radical" ></center>
         </td>
     </tr>
+        <tr style="border:hidden">
+        <td width=50%>
+            <center><img src="https://github-readme-streak-stats.herokuapp.com/?user=BabyKnight&hide_border=true&theme=radical" ></center>
+        </td>
+        <td width=50%>
+            <center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyknight&layout=compact&theme=radical" ></center>
+        </td>
+    </tr>
 </table>
