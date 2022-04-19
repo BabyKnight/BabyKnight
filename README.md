@@ -53,4 +53,4 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
-https://activity-graph.herokuapp.com/graph?username=BabyKnight&hide_border=true&theme=redical
+<img src="https://activity-graph.herokuapp.com/graph?username=BabyKnight&hide_border=true&theme=redical">
