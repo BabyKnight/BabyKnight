@@ -1,6 +1,6 @@
 ### Hi there, I'm [Vincent!](https://babyknight.github.io/) 👋
 
-🏫: MSE， graduated from [ZheJiang University](https://www.zju.edu.cn/).
+🏫: MSE - Master of Software Engineering, graduated from [ZheJiang University](https://www.zju.edu.cn/).
 
 👨‍💻: Senior Software Engineer & Scrum Master & Development Manager 
 
@@ -12,7 +12,7 @@ Interested in:
 
 ❤️ Coding　💙 Linux　⚡️ Algorithm　💡 Innovation
 
-To find more detail from my github pages 👉: [https://www.vincenthu.tk/](https://www.vincenthu.tk/) / [https://www.vincenthu.ga/](https://www.vincenthu.ga/)
+To find more detail from my github pages 👉: [https://www.vincenthu.tk/](https://www.vincenthu.tk/)
 
 To contact me for any upstream projects 📧: vincent.guohua.hu@gmail.com / zju_hgh@163.com
 
