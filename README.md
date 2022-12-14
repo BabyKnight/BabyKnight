@@ -12,10 +12,9 @@ Interested in:
 
 ❤️ Coding　💙 Linux　⚡️ Algorithm　💡 Innovation
 
-To find more detail from my github pages 👉: [https://www.vincenthu.tk/](https://www.vincenthu.tk/)
+To find more detail from my github pages 👉: [https://www.vincenthu.tk/](https://www.vincenthu.tk/) ,[https://babyknight.github.io/](https://babyknight.github.io/) 
 
 To contact me for any upstream projects 📧: vincent.guohua.hu@gmail.com / zju_hgh@163.com
-
 
 
 
