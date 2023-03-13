@@ -4,6 +4,8 @@
 
 👨‍💻: Senior Software Engineer & Scrum Master & Development Manager 
 
+📝: Author of Dell Linux Assistant
+
 Interested in:
 
 💻: Web / Desktop Application
