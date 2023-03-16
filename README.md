@@ -1,4 +1,4 @@
-### Hi there, I'm [Vincent!](https://babyknight.github.io/) 👋
+### Hi there, 👋 I'm [Vincent!](https://babyknight.github.io/) (👈 Click for more detail) 
 
 🏫: MSE - Master of Software Engineering, graduated from [ZheJiang University](https://www.zju.edu.cn/).
 
