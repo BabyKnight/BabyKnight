@@ -4,7 +4,7 @@
 
 👨‍💻: Senior Software Engineer & Scrum Master & Development Manager 
 
-📝: Author of [Dell Linux Assistant](https://launchpad.net/~somerville-dla-team/+archive/ubuntu/ppa).
+📝: developer & maintainer of [Dell Linux Assistant](https://launchpad.net/~somerville-dla-team/+archive/ubuntu/ppa).
 
 Interested in:
 
